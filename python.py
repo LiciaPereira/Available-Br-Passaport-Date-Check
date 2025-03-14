@@ -12,9 +12,9 @@ session = HTMLSession()
 
 # Replace with your actual cookies (name-value pairs)
 cookies = {
-    'FGTServer': 'DD1EF3BDF21D114F06347FA70BE64CEFB21A85C1F22DC6D21D4B13EE647F7BE509A75CF2DED3E3DBCE59A7BDBC9141941D51',
-    'ec-session': 'eyJ0b2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpsYldGcGJDSTZJbXhwWTJsaGNHVnlaV2x5WVVCcFkyeHZkV1F1WTI5dElpd2ljR0Z6Y3lJNlptRnNjMlVzSW14dloybHVkVzVwWTI4aU9uUnlkV1VzSW1OdmNtUnBiR2hsYVhKaElqcG1ZV3h6WlN3aWFXRjBJam94TnpReE56ZzNNVEE1TENKbGVIQWlPakUzTkRFNE1UVTVNRGw5LlJ1anpTdmJnSC1NMkpBVjB3TjM4WWp1SzhOY0lRXzBmVWlsejFua2Z0QmMifQ==',
-    'ec-session.sig': 'ziNSfoeQ49e687oX5CfK5OBlRhI'
+    'FGTServer': 'Cookie data here',
+    'ec-session': 'Cookie data here',
+    'ec-session.sig': 'Cookie data here'
 }
 
 # Set cookies for the session
